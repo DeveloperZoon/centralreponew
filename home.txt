@@ -1,1 +1,2 @@
 Home file first line
+New text in file home
